@@ -10,7 +10,7 @@ import java.util.Scanner;
  * - prompt the user to pick a country name from a list<br/>
  * - prompt the user to pick the language they want it translated to from a list<br/>
  * - output the translation<br/>
- * - at any time, the user can type quit to quit the program<br/>
+ * - at any time, the user can type quit to quit the program<br/>5
  */
 public class Main {
 
